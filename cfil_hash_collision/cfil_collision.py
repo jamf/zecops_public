@@ -1,3 +1,16 @@
+## (c) 2019 ZecOps, Inc. - https://www.zecops.com - Find Attackers' Mistakes
+## iOS DFIR / MacOS DFIR tool to inspect for attacks leveraging DoubleNull (CVE-2019-XXXX) LPE
+## Intended only for educational and corporate environments but NOT in commercial products unless ZecOps provide
+## a written consent.
+##
+## Example: python cfil_collision.py test.pcap
+##
+## If you found a collision that happened in less than 20 seconds, on an MacOS / iPhone / iPad device, 
+## it's interesting to further analyze. If the collision happened in less than 10 seconds, 
+## it is highly indicative of an attack and this device is compromised.
+## Please contact APTs@ZecOps.com if you observed such collision. We can assist in the rest of the investigation.
+## Use at your own risk.
+
 import socket
 import struct
 import sys

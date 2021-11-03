@@ -1,0 +1,3 @@
+This license allows to use this code with no warranty or responsibility for research and educational purposes. This code is not available for commercial usage.
+You do not have permission to use this code in offensive operations without the end-user's consent.
+Using the code without consent requires a written permission from ZecOps at info@zecops.com. Should you never receive permission to use this offensively (you can count on not never getting such permission from us), and if you get caught using this tool without ZecOps permission, you'll be subject to a license fine for each usage of $10m Euros. Out of the license costs, ZecOps guarantee to donate at least 20% to Amnesty International.
